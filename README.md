@@ -9,7 +9,7 @@ A beautifully crafted web application celebrating pioneering women in STEM — f
 ## 📸 Features
 
 - 🏠 **Hero Landing Page** — Animated introduction with inspirational quotes carousel
-- 👩‍💻 **15+ Profiles** — Detailed bios of trailblazing women including Ada Lovelace, Marie Curie, Grace Hopper, and more
+- 👩‍💻 **15+ Profiles** — Detailed bios of trailblazing women including Ada Lovelace, Marie Curie, Grace Hopper and more
 - 📊 **Field Distribution Chart** — Interactive visualization of representation across STEM fields
 - ⏳ **Timeline View** — Historical timeline of achievements and milestones
 - ❤️ **Favorites System** — Save and revisit your favorite profiles
